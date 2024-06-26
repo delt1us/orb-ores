@@ -1,8 +1,9 @@
    {
      "name": "orb_ores",
-     "version": "0.0.1",
+     "version": "0.0.2",
      "title": "Orb Ores",
      "author": "deltius",
      "factorio_version": "1.1",
+     "description" : "Make ores perfectly round",
      "dependencies": ["?space-exploration"]
    }
