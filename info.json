@@ -1,0 +1,8 @@
+   {
+     "name": "orb_ores",
+     "version": "0.0.1",
+     "title": "Orb Ores",
+     "author": "deltius",
+     "factorio_version": "1.1",
+     "dependencies": ["?space-exploration"]
+   }
